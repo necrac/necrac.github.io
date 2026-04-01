@@ -3379,10 +3379,11 @@ input, select, textarea {
 
 		#header > .title {
 			border: 0;
-			color: #ffffff;
+			color: #98e8b3;
 			display: block;
-			font-size: 1.25em;
+			font-size: 1.40em;
 			font-weight: bold;
+			font-family: Georgia, 'Times New Roman', Times, serif;
 		}
 
 		#header > nav {
